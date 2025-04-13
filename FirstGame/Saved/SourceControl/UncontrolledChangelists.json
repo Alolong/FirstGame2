@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/BluePrint/FirstGame2/FirstGame/Content/ThirdPerson/Blueprints/BP_GameModState.uasset",
+				"D:/BluePrint/FirstGame2/FirstGame/Content/ThirdPerson/Blueprints/BP_HudWidget.uasset",
+				"D:/BluePrint/FirstGame2/FirstGame/Content/ThirdPerson/Blueprints/BP_Gimic.uasset",
+				"D:/BluePrint/FirstGame2/FirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/BluePrint/FirstGame2/FirstGame/Content/ThirdPerson/Blueprints/BP_Hud.uasset",
+				"D:/BluePrint/FirstGame2/FirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/game/FirstGame/FirstGame/Content/ThirdPerson/Persistent/BP_PGameMode.uasset",
 				"C:/game/FirstGame/FirstGame/Content/ThirdPerson/Persistent/BP_PHud.uasset",
 				"C:/game/FirstGame/FirstGame/Content/ThirdPerson/Persistent/P_EntryHudWidget.uasset",
